@@ -1,0 +1,15 @@
+C:\Users\Alunos\Documents\abner filipe\atividadecaixad-agua\caixa\bin\Debug\net8.0\caixa.exe
+C:\Users\Alunos\Documents\abner filipe\atividadecaixad-agua\caixa\bin\Debug\net8.0\caixa.deps.json
+C:\Users\Alunos\Documents\abner filipe\atividadecaixad-agua\caixa\bin\Debug\net8.0\caixa.runtimeconfig.json
+C:\Users\Alunos\Documents\abner filipe\atividadecaixad-agua\caixa\bin\Debug\net8.0\caixa.dll
+C:\Users\Alunos\Documents\abner filipe\atividadecaixad-agua\caixa\bin\Debug\net8.0\caixa.pdb
+C:\Users\Alunos\Documents\abner filipe\atividadecaixad-agua\caixa\obj\Debug\net8.0\caixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\abner filipe\atividadecaixad-agua\caixa\obj\Debug\net8.0\caixa.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\abner filipe\atividadecaixad-agua\caixa\obj\Debug\net8.0\caixa.AssemblyInfo.cs
+C:\Users\Alunos\Documents\abner filipe\atividadecaixad-agua\caixa\obj\Debug\net8.0\caixa.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\abner filipe\atividadecaixad-agua\caixa\obj\Debug\net8.0\caixa.sourcelink.json
+C:\Users\Alunos\Documents\abner filipe\atividadecaixad-agua\caixa\obj\Debug\net8.0\caixa.dll
+C:\Users\Alunos\Documents\abner filipe\atividadecaixad-agua\caixa\obj\Debug\net8.0\refint\caixa.dll
+C:\Users\Alunos\Documents\abner filipe\atividadecaixad-agua\caixa\obj\Debug\net8.0\caixa.pdb
+C:\Users\Alunos\Documents\abner filipe\atividadecaixad-agua\caixa\obj\Debug\net8.0\caixa.genruntimeconfig.cache
+C:\Users\Alunos\Documents\abner filipe\atividadecaixad-agua\caixa\obj\Debug\net8.0\ref\caixa.dll
